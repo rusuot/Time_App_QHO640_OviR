@@ -452,10 +452,9 @@ Hosting URL: https://test-c29bb.web.app
 ```
 
 #### New hosted web links:
--- test-c29bb.web.app
--- test-c29bb.firebaseapp.com
+https://test-c29bb.web.app and https://test-c29bb.firebaseapp.com
 
-### Troubleshoot:
+###  Troubleshoot:
 Hints for a successfull run:
 1. Be sure you copy the Firebase auth, api keys correctly.
 2. For firebase hosting, public/index.html & build/index.html files needs to have same content. The original for the app is found in public. So copy from public into build:
