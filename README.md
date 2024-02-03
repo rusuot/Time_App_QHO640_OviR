@@ -56,17 +56,17 @@ REACT_APP_APP_ID=""
 After you have logged in into your account, you need to create a project:
 5.2 From "Add a project" you will be re-directed to "Let's start with a name for your project " and asked to insert your firebase project name.
 
-Create project step 1: Insert name example: "test" and copy and SAVE somewhere the unique identifier, in my case is: "test-c29bb" and press "Continue".
-Create project step 2: "Google Analytics for your Firebase project..." here press "Continue".
-Create project step 3: "Configure Google Analytics" - at "Choose or create a Google Analytics account" click on combo box and select "Default Account for Firebase" and press "Create project".
-In several seconds/1 minute you will see "Your Firebase project is ready" and press "Continue".
+- Create project step 1: Insert name example: "test" and copy and SAVE somewhere the unique identifier, in my case is: "test-c29bb" and press "Continue".
+- Create project step 2: "Google Analytics for your Firebase project..." here press "Continue".
+- Create project step 3: "Configure Google Analytics" - at "Choose or create a Google Analytics account" click on combo box and select "Default Account for Firebase" and press "Create project".
+- In several seconds/1 minute you will see "Your Firebase project is ready" and press "Continue".
 5.3 Now, a web application registration must be done, remain in this Firebase project page from previous step.
-You'll see something like: "Get started by adding Firebase to your app<some icons...> Add an app to get started".
-There are 5 icons, you can hover over them, please click on the 3rd one, hovering it you'll see "Web" text. The icon looks like: "</>".
-Once you selected "</>", you'll be bring up to "Add Firebase to your web app" page.
+- You'll see something like: "Get started by adding Firebase to your app<some icons...> Add an app to get started".
+- There are 5 icons, you can hover over them, please click on the 3rd one, hovering it you'll see "Web" text. The icon looks like: "</>".
+- Once you selected "</>", you'll be bring up to "Add Firebase to your web app" page.
 In here:
-1 - Register app: Insert app nickname, I've just put "test" and click on button "Register app". (do not select hosting now, we'll be done later).
-2 - Add Firebase SDK. In here you'll see:
+ - Register app: Insert app nickname, I've just put "test" and click on button "Register app". (do not select hosting now, we'll be done later).
+ - Add Firebase SDK. In here you'll see:
 Don't run yet anyting, just save these into a notepad or something, you'll need values from apiKey, authDomani .. and so on to put them in ".env.dev" file.
 ```sh
 npm install firebase
