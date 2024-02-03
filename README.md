@@ -452,8 +452,8 @@ Hosting URL: https://test-c29bb.web.app
 ```
 
 #### New hosted web links:
-test-c29bb.web.app
-test-c29bb.firebaseapp.com
+-- test-c29bb.web.app
+-- test-c29bb.firebaseapp.com
 
 ### Troubleshoot:
 Hints for a successfull run:
