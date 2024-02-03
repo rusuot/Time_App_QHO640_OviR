@@ -174,11 +174,11 @@ FirebaseError: The query requires an index. You can create it here: https://cons
 FirebaseError: The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/time-app-cont-web/firestore/indexes?create_composite=ClFwcm9qZWN0cy90aW1lLWFwcC1jb250LXdlYi9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvbXl0b2Rvcy9pbmRleGVzL18QARoICgR1c2VyEAEaDQoJY3JlYXRlZEF0EAIaDAoIX19uYW1lX18QAg
 FirebaseError: The query requires an index. You can create it here: https://console.firebase.google.com/v1/r/project/time-app-cont-web/firestore/indexes?create_composite=ClRwcm9qZWN0cy90aW1lLWFwcC1jb250LXdlYi9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvYWN0aXZpdGllcy9pbmRleGVzL18QARoICgR1c2VyEAEaDQoJY3JlYXRlZEF0EAIaDAoIX19uYW1lX18QAg
 ```
-Select the url from all 3 errors received in order to create the 3 needed indexes in Firebase DB: mytodos, activities, history.
-Selecting an URL, you'll be redirected to your Firebase website, and you'll see for e.g. a popup with "Create or update indexes. The history collection requires additional indexing to run your query".
+- Select the url from all 3 errors received in order to create the 3 needed indexes in Firebase DB: mytodos, activities, history.
+- Selecting an URL, you'll be redirected to your Firebase website, and you'll see for e.g. a popup with "Create or update indexes. The history collection requires additional indexing to run your query".
 --In here (popoup) select SAVE. - like this index for history will be enabled.
-Repeat this step for all your 3 Firebase Errors links, all 3 indexes must be created: history, mytodos & activities.
-In firebase website db: Indexes statuses will go from "Building.." into "Enabled" once they are successfully created.
+- Repeat this step for all your 3 Firebase Errors links, all 3 indexes must be created: history, mytodos & activities.
+- In firebase website db: Indexes statuses will go from "Building.." into "Enabled" once they are successfully created.
 
 Note: If the URL link doesn't redirect you to "Create or update indexes. The history collection requires additional indexing to run your query" to have the SAVE button, just try to select again the URL to reload it. No issues should be encountered in here.
 Once all 3 indexes are successfully created will have the status: Enabled (in Firebase website)
