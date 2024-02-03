@@ -6,7 +6,7 @@
 - https://contemporary-web-app-6f54f.firebaseapp.com
 
 
-## My GitHub official/clean link: https://github.com/rusuot/Official_QHO640_Students_Time_Management_App
+## My GitHub official/clean link: https://github.com/rusuot/Time_App_QHO640_OviR
 ###### My GitHub history link (drafts):  https://github.com/rusuot/MyTime_Mngmnt_App_Contemp_Web_app
 I have worked on a separate repo as I'm facing some issues with pushing commits directly from Visual Code, hence each time I'm uploading files in GIT.
 ### Student Name: Rusu Ovidiu Tiberiu
