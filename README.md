@@ -23,7 +23,6 @@ What I have used for this project:
 - [Exercises solutions - GitHub support](https://github.com/joeappleton18/running-contemp-web-app-solutions/branches/stale)
 - [Dillinger](https://dillinger.io/)
 
-## Project Introduction
 
 
 ## Link to hosted web-app: 
