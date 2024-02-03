@@ -1,0 +1,82 @@
+/* styling for navigation bar/menu */
+.navbar {
+    margin-bottom: 10px;
+    border-radius: 50px;
+    height: 90px;
+    padding: 0 50px;
+    background-color: #2f1296;
+    color: #fff;
+    float: left;
+}
+
+.navbar:hover {
+    background-color: #3a58d2;
+}
+
+
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0;
+}
+
+.menu-nav a {
+    border-bottom: 1px solid transparent ;
+}
+
+.menu-nav a:hover{
+    color: #fff;
+    border-color: lightgrey ;
+}
+
+
+.menu {
+    display: flex;
+    font-weight: bold;
+    background-color: #2f1296;
+    color: #fff;
+    border: 10px solid #fff;
+    /* align-items:flex-start; */
+}
+
+.menu:hover,
+.menu:active,
+.menu:focus {
+    background-color: #3e98f8;
+    color: #fff;
+}
+
+.menu-modal .modal-dialog {
+    max-width: 65%;
+    margin: auto;
+}
+
+.menu-modal .modal-header {
+    background-color: #2f1296;
+    color: #fff;
+}
+
+.modal-header .btn-close {
+    border: 10px solid #fff;
+    opacity: 1;
+}
+
+.menu-modal .modal-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-modal .modal-body a {
+    border: 10px solid #2f1296;
+    background: #5d7892a6;
+    border-radius: 6px;
+    padding: 8px 32px;
+    margin: 4px 0;
+    font-weight: bold;
+    color: #2f1296;
+}
+
+.menu-modal .modal-body a:hover {
+    background: #5d7892a6;
+}

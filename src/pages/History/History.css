@@ -1,0 +1,20 @@
+/* history styling */
+.onehistory-page {
+    padding: 70px 50px;
+    max-width: 2048px;
+    margin: auto;
+    /* background-color: #37aaf1; */
+}
+
+.onehistory-page option button {
+    color: #2f1296;
+    background-color: #37aaf1;
+}
+
+.onehistory-page button:active {
+    transform: scale(.98);
+}
+
+/* .mytodos-page .mytodos-page-header {
+    padding: 10px 50px;
+} */
