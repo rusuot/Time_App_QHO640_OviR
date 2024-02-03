@@ -5,6 +5,11 @@
 - https://contemporary-web-app-6f54f.web.app
 - https://contemporary-web-app-6f54f.firebaseapp.com
 
+  
+Hint: if you like you can directly login with:
+user:  1@1.com
+pass: 1234567
+OR: Signup and create an account & login 
 
 ## My GitHub official/clean link: https://github.com/rusuot/Time_App_QHO640_OviR
 ###### My GitHub history link (drafts):  https://github.com/rusuot/MyTime_Mngmnt_App_Contemp_Web_app
